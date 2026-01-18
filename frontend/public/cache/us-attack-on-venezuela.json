@@ -1,0 +1,867 @@
+{
+  "topic": "US attack on Venezuel",
+  "articles": [
+    {
+      "title": "GOP talk of Rubio 2028 heats up in wake of Venezuela op",
+      "source": "Politics",
+      "political_bucket": "center",
+      "published_at": "Sat, 10 Jan 2026 16:00:00 EST",
+      "content": "The secretary of State has signaled he may not run for president in 2028, but he\u2019s changed his mind on such matters before.",
+      "link": "https://www.politico.com/news/2026/01/10/marco-rubio-venezuela-2028-future-00718902",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.2,
+        "details": {
+          "subjectivity": 21.8,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "George Conway enters crowded NYC Democratic House primary with singular focus \u2014 Trump",
+      "source": "Politics",
+      "political_bucket": "center",
+      "published_at": "Tue, 06 Jan 2026 08:56:14 EST",
+      "content": "The former Republican is calling for the president's impeachment over his actions in Venezuela.",
+      "link": "https://www.politico.com/news/2026/01/06/george-conway-enters-crowded-nyc-democratic-house-primary-with-singular-focus-trump-00712217",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Dems use Venezuela to hammer affordability issues at home",
+      "source": "Politics",
+      "political_bucket": "center",
+      "published_at": "Tue, 06 Jan 2026 07:31:05 EST",
+      "content": "The party is showing a rare moment of unity following the Trump administration\u2019s capture of Venezuelan President Nicol\u00e1s Maduro.",
+      "link": "https://www.politico.com/news/2026/01/06/dems-use-venezuela-to-hammer-affordability-issues-at-home-00711737",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.8,
+        "details": {
+          "subjectivity": 18.5,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "\u2018An illegal war\u2019: Democratic 2028ers scold Trump on Venezuela",
+      "source": "Politics",
+      "political_bucket": "center",
+      "published_at": "Sat, 03 Jan 2026 15:51:06 EST",
+      "content": "Most would-be Democratic White House hopefuls piled on the president \u2014 while his possible Republican successors quickly voiced their support.",
+      "link": "https://www.politico.com/news/2026/01/03/trump-venezuela-democrats-2028-president-00709912",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "US strike in Syria kills man linked to attack on soldiers, officials say",
+      "source": "BBC News",
+      "political_bucket": "center",
+      "published_at": "Sat, 17 Jan 2026 23:02:50 GMT",
+      "content": "The US Central Command  said in a statement that Bilal Hasan al-Jasim was killed in the attack on Friday.",
+      "link": "https://www.bbc.com/news/articles/cm2jdklp5m8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3925/live/0e3f16e0-f3f8-11f0-95ee-d55aebc4eec2.jpg",
+      "scores": {
+        "bias_score_1_to_10": 3.0,
+        "details": {
+          "subjectivity": 0.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "source": "BBC News",
+      "political_bucket": "center",
+      "published_at": "Fri, 16 Jan 2026 08:14:18 GMT",
+      "content": "Trump thanked Venezuelan opposition leader Mar\u00eda Corina Machado, calling it \"a wonderful gesture of mutual respect\".",
+      "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f12e/live/c817ae90-f2ab-11f0-b5f7-49f0357294ff.jpg",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "With Maduro Gone, Will Venezuelans Choose Freedom?",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 09:47:07 GMT",
+      "content": "January 3, 2026, will go down in history as the day Venezuelans recovered something many had believed lost: hope. That hope did not come from abstract promises, but from the capture of dictator Nicol\u00e1s Maduro \u2014 the first sign in decades that Venezuela may veer off the trajectory of authoritarian rule, economic collapse, and mass ...",
+      "link": "https://www.dailywire.com/news/with-maduro-gone-will-venezuelans-choose-freedom",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 8.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 20.0
+        }
+      },
+      "sentiment_score": 0.09,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "LIVE UPDATES: Trump Warns Of Dangers Of Aligning With Venezuelan Opposition, Cites Iraq As Example",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 19:20:20 GMT",
+      "content": "\ufeff",
+      "link": "https://www.dailywire.com/news/live-updates-united-states-strikes-venezuela-captures-president-maduro",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.5574,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Venezuelan Opposition Leader Says Next Steps Have To Address \u2018The Cartel And Justice\u2019",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 14:04:39 GMT",
+      "content": "Venezuelan opposition leader Maria Corina Machado expressed optimism in Washington, D.C., on Friday following her meetings with President Donald Trump and lawmakers on Capitol Hill this week. \u201cWe are definitely now into the first steps of a true transition to democracy that will have not only immense impact in the lives of Venezuelans,\u201d she said ...",
+      "link": "https://www.dailywire.com/news/venezuelan-opposition-leader-says-next-steps-have-to-address-the-cartel-and-justice",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.8402,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Why Are Democrats Defending A Narco-Terrorist Dictator?",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 10:26:10 GMT",
+      "content": "Liberals have taken many radical, nonsensical positions in recent years. Few are as baffling as their outrage over President Trump\u2019s removal of Nicol\u00e1s Maduro, the illegitimate, narco-terrorist dictator of Venezuela \u2014 a move the long-suffering citizens of Venezuela are openly cheering. But not so among progressives, such as the clueless governor of Illinois, JB Pritzker, ...",
+      "link": "https://www.dailywire.com/news/why-are-democrats-defending-a-narco-terrorist-dictator",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.5023,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Investigation: Iran Accused Of Using \u2018Dirty\u2019 Radioactive Warheads On U.S. Troops In 2020",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 09:58:00 GMT",
+      "content": "In a stunning revelation that underscores the malevolent depths of the Iranian regime, a new investigation by Catherine Herridge suggests that the 2020 Iranian ballistic missile attack on Al Asad Air Base was far more than a conventional strike. While the public was told at the time that no Americans died, the reality is a ...",
+      "link": "https://www.dailywire.com/news/investigation-iran-accused-of-using-dirty-radioactive-warheads-on-u-s-troops-in-2020",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.3561,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "CIA Director Meets With Venezuela\u2019s Interim Leader As U.S. Shifts Policy",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 07:55:08 GMT",
+      "content": "CIA Director John Ratcliffe met with interim Venezuelan President Delcy Rodriguez on Thursday in Caracas to discuss economic cooperation and intensifying efforts against drug trafficking, a U.S. official confirmed to The Daily Wire.\u00a0 The official told The Daily Wire that the meeting focused on &#8220;trust building measures and laying the groundwork for continued communication and ...",
+      "link": "https://www.dailywire.com/news/cia-director-meets-with-venezuelas-interim-leader-as-u-s-shifts-policy",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.4,
+        "details": {
+          "subjectivity": 24.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.3818,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Trump Ends Up With Nobel After All As Venezuela\u2019s Machado Gifts Prize At White House",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 19:31:27 GMT",
+      "content": "Venezuela opposition leader Mar\u00eda Corina Machado gifted her 2025 Nobel Peace Prize to President Donald Trump at the White House Thursday. Machado met with the president a day after Trump spoke with Venezuela&#8217;s acting president, Delcy Rodriguez, over the phone. Machado had previously dedicated her award to Trump last year \u201cfor his decisive support of ...",
+      "link": "https://www.dailywire.com/news/trump-ends-up-with-nobel-after-all-as-venezuelas-machado-gifts-prize-at-white-house",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.9648,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "The Fog Of Trump: How Unpredictability Keeps Iran Guessing",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 15:55:00 GMT",
+      "content": "When Iranian airspace closed on Wednesday night, it seemed like an American attack was imminent. Some military assets moved, American bases had degrees of evacuations, and tension spiked. But the attack never came. Experts now warn that this is not an end to the standoff, but a strategic maneuver in what they call the \u201cfog ...",
+      "link": "https://www.dailywire.com/news/the-fog-of-trump-how-unpredictability-keeps-iran-guessing",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.4,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.7469,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\u2018We Help Our Neighbors\u2019: Minnesota State Lawmaker Tries To Defend Group Attack On ICE Agent",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 14:01:06 GMT",
+      "content": "Minnesota State Senator Bobby Joe Champion attempted to defend the men who jumped in to assault an Immigration and Customs Enforcement (ICE) agent on Wednesday, claiming that it was a clear example of Minnesotans pitching in to &#8220;help our neighbors.&#8221; Champion joined CNN&#8217;s Laura Coates to discuss the scene that unfolded on Wednesday when an ...",
+      "link": "https://www.dailywire.com/news/we-help-our-neighbors-minnesota-state-lawmaker-tries-to-defend-group-attack-on-ice-agent",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.7,
+        "details": {
+          "subjectivity": 6.7,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": 0.7351,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Cuban Guards Killed Defending Nicolas Maduro Returned Home in Small Boxes",
+      "source": "Breitbart News",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 19:07:32 +0000",
+      "content": "<p>A plane carrying the remains of 32 identified Cuban state security agents killed in the American military operation to arrest deposed Venezuelan dictator Nicol\u00e1s Maduro landed in Havana on Thursday. Shocking footage of its arrival showed that the remains of the fallen were apparently not large enough for coffins and brought home in small boxes.</p>\n<p>The post <a href=\"https://www.breitbart.com/latin-america/2026/01/16/cuban-guards-killed-defending-nicolas-maduro-returned-home-in-small-boxes/\" rel=\"nofollow\">Cuban Guards Killed Defending Nicol\u00e1s Maduro Returned Home in Small Boxes</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+      "link": "https://www.breitbart.com/latin-america/2026/01/16/cuban-guards-killed-defending-nicolas-maduro-returned-home-in-small-boxes/",
+      "image": "https://media.breitbart.com/media/2026/01/GettyImages-2255800361-640x335.png",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9623,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Ukrainian Delegation Arrives in U.S. for Peace Talks in Hopes of Finalizing Deal",
+      "source": "Breitbart News",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 12:05:57 +0000",
+      "content": "<p>A Ukrainian delegation arrived in the United States for talks Saturday on a U.S.-led diplomatic push to end the nearly 4-year-old war as Russian attacks again took aim at Ukraine's power grid, cutting electricity and heating in freezing temperatures.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/01/17/ukrainian-delegation-arrives-in-us-for-peace-talks-in-hopes-of-finalizing-deal/\" rel=\"nofollow\">Ukrainian Delegation Arrives in U.S. for Peace Talks in Hopes of Finalizing Deal</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+      "link": "https://www.breitbart.com/europe/2026/01/17/ukrainian-delegation-arrives-in-us-for-peace-talks-in-hopes-of-finalizing-deal/",
+      "image": "https://media.breitbart.com/media/2026/01/GettyImages-2254293927-2-640x335.jpg",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.7717,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "'Appease Prize': Critics Stunned By Venezuela's Machado Nobel Handoff To Trump",
+      "source": "Politics",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 20:43:23 -0500",
+      "content": "Machado said she \"presented\" Trump with the coveted medal despite the Nobel Committee's insistence that she can't transfer her title as a laureate.",
+      "link": "https://www.huffpost.com/entry/maria-corina-machado-presented-nobel-peace-prize-trump-reactions_n_69697dd0e4b0774cc19f8eb5",
+      "image": "https://img.huffingtonpost.com/asset/6969848d140000859f64c5b6.jpeg?cache=PS3kegJcGS&amp;ops=1200_630",
+      "scores": {
+        "bias_score_1_to_10": 4.2,
+        "details": {
+          "subjectivity": 12.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.7096,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Venezuelan Opposition Leader Says She Presented Her Nobel Peace Prize To Trump",
+      "source": "Politics",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 18:23:50 -0500",
+      "content": "Maria Corina Machado gave Trump her medal as part of a high-stakes charm offensive.",
+      "link": "https://www.huffpost.com/entry/trump-nobel-prize-maria-corina-machado_n_69696264e4b00edae2a418cc",
+      "image": "https://img.huffingtonpost.com/asset/69696382170000479aaacdb4.jpeg?cache=1juvGe9vh3&amp;ops=500_281%2Cscalefit_1200_630",
+      "scores": {
+        "bias_score_1_to_10": 4.3,
+        "details": {
+          "subjectivity": 13.3,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.8625,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Headlines for January 16, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 16 Jan 2026 08:00:00 -0500",
+      "content": "Trump Threatens to Invoke Insurrection Act to Suppress Protests Against Federal Agents&#8217; Abuses, <span class=\"caps\">ACLU</span> Lawsuit Seeks to Halt &#8220;Unprecedented Level of Violence&#8221; Committed by Immigration Agents, Records Reveal Minneapolis Mother Renee Good Was Struck Multiple Times by <span class=\"caps\">ICE</span> Agent&#8217;s Bullets, Medical Examiner: Cuban Immigrant&#8217;s Death in Texas <span class=\"caps\">ICE</span> Jail Was from &#8220;Asphyxia Due to Neck and Chest Compression&#8221;, Pentagon Orders Carrier Strike Group to Middle East as Trump Threatens to Attack Iran, U.S. Seizes Another Oil Tanker as Venezuela&#8217;s Interim President Proposes Opening Oil Sector, Cuba Repatriates Remains of 32 Officers Killed in U.S. Attack on Venezuela, Mar\u00eda Corina Machado Gives Nobel Peace Prize to Donald Trump, <span class=\"caps\">NATO</span> Members Deploy Soldiers to Greenland Amid Trump&#8217;s Threat to Seize Territory, Israeli Forces Kill 10 Palestinians in Latest Violations of U.S.-Brokered Ceasefire Deal, Appellate Court Overturns Ruling That Freed Palestinian Activist Mahmoud Khalil, Trump Says 2026 Midterm Elections Should Be Canceled, <span class=\"caps\">CBS</span> News &#8220;Exclusive&#8221; That <span class=\"caps\">ICE</span> Officer &#8220;Suffered Internal Bleeding&#8221; Draws &#8220;Huge Internal Concern&#8221;",
+      "link": "http://www.democracynow.org/2026/1/16/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.0,
+        "details": {
+          "subjectivity": 20.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9792,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "FBI Raids Home of Washington Post Reporter as Attacks on Press Freedom Intensify Under Trump",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 08:17:37 -0500",
+      "content": "The <span class=\"caps\">FBI</span> raided the home of <em>Washington Post</em> reporter Hannah Natanson this week and seized her electronic devices, part of a leak probe into a government contractor accused of mishandling classified government materials. Natanson has reported extensively on the Trump administration&#8217;s changes to the federal bureaucracy, including mass layoffs of government workers. This comes amid a broader pattern of attacks on the media, including lawsuits, funding cuts, and increasing media and technology consolidation.</p>\n<p>&#8220;It&#8217;s hard not to see [the <span class=\"caps\">FBI</span> raid] as an effort to intimidate not just journalists, but the sources that would communicate with them,&#8221; says Jameel Jaffer, director of the Knight First Amendment Institute at Columbia University. &#8220;It&#8217;s a terrible time for press freedom. \u2026 We need the press to inform the public about the government&#8217;s actions and decisions and to help us hold government officials to account.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/15/trump_free_speech",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 19.7,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": 0.2732,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Headlines for January 15, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 08:00:00 -0500",
+      "content": "U.S. Pulls Back from Some Middle East Bases Amid Trump&#8217;s Threats to Attack Iran, State Department to Halt Processing Visas for Immigrants from 75 Countries, <span class=\"caps\">ICE</span> Shoots Man in Minneapolis After Gov. Walz Decries Federal &#8220;Campaign of Organized Brutality&#8221;, <span class=\"caps\">ICE</span> Jails Oglala Sioux Members at Fort Snelling, Site of 19th-Century Concentration Camp, Protester in Santa Ana Is Left Permanently Blind by &#8220;Less Lethal&#8221; Round Fired by Federal Agent, ProPublica: <span class=\"caps\">ICE</span> Agents Used Potentially Fatal Chokeholds in 40+ Cases, Maine Officials Warn <span class=\"caps\">ICE</span> Is Preparing Surge into Lewiston and Portland, Danish Foreign Minister: &#8220;Fundamental Disagreement&#8221; with Trump over Greenland, Trump&#8217;s Middle East Envoy Witkoff Says Gaza Truce Has Entered Its Second Phase, Senate Republicans Kill War Powers Resolution to Limit Trump on Venezuela, <span class=\"caps\">FBI</span> Agents Raid Home of Washington Post Reporter Hannah Natanson, Democratic Lawmakers Say <span class=\"caps\">DOJ</span> Is Investigating Them over Video to U.S. Service Members, Trump Flips Middle Finger to Autoworker Who Called Him a &#8220;Pedophile Protector&#8221;",
+      "link": "http://www.democracynow.org/2026/1/15/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9769,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 14, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 14 Jan 2026 08:00:00 -0500",
+      "content": "Over 2,500 People Killed in Anti-Government Protests in Iran, <span class=\"caps\">DOJ</span> Releases Memo Stating That Trump Had Constitutional Power to Attack Venezuela, Interim Venezuelan Government Releases at Least Four U.S. Citizens Imprisoned in the Country, Cuba&#8217;s President Defies the U.S. as Trump Pressures Cuban Government to Make a Deal, Vice President Vance and Secretary of State Rubio Expected to Meet with the Leaders of Denmark and Greenland, Six Federal Prosecutors in Minnesota Resign over DOJ&#8217;s Handling of Renee Good&#8217;s Shooting, Trump Admin to Suspend Federal Funding for Sanctuary Cities and States Next Month, Trump Admin Ending Temporary Protected Status for Immigrants from Somalia, <span class=\"caps\">SCOTUS</span> Poised to Uphold State Laws Banning Transgender Youths from Participating in School Sports, Far-Right Zionist Group Betar US to End Its Operations in New York After Probe by New York Attorney General Letitia James, Louisiana Seeks to Extradite California Doctor for Providing Abortion Pills, Claudette Colvin, Pioneer in the Civil Rights Movement, Dies at 86",
+      "link": "http://www.democracynow.org/2026/1/14/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.7,
+        "details": {
+          "subjectivity": 17.1,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9451,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"Empire in Decline\": Historian Alfred McCoy on U.S. Aggression in Venezuela, Iran & Beyond",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 13 Jan 2026 08:44:42 -0500",
+      "content": "As President Trump threatens Iran, Venezuela, Mexico, Greenland and more, renowned historian Alfred McCoy says the United States is &#8220;an empire in decline,&#8221; following a predictable pattern of militarism abroad and political instability at home as it loses power and influence on the world stage. &#8220;American politics become increasingly contorted and irrational,&#8221; says McCoy. &#8220;I think the thing to do is to realize that we are an empire in decline, \u2026 and it will continue for another decade or two, until American power finally slips away.&#8221;</p>\n<p>McCoy just published his latest book, <em>Cold War on Five Continents: A Global History of Empire and Espionage</em>, on the impact of U.S.-Soviet imperial proxy wars in Africa, Asia and Latin America.",
+      "link": "http://www.democracynow.org/2026/1/13/alfred_mccoy_cold_war_on_five",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.8957,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 13, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 13 Jan 2026 08:00:00 -0500",
+      "content": "Minnesota &amp; Illinois Sue over &#8220;Federal Invasion&#8221; by <span class=\"caps\">ICE</span> Agents, <span class=\"caps\">ICE</span> Agents in Minneapolis Fire Tear Gas, Pepper Spray at Protests over Immigration Raids, Four Top <span class=\"caps\">DOJ</span> Officials Resign over Decision Not to Probe <span class=\"caps\">ICE</span> Killing of Renee Good, As Trump Weighs Iran Strikes, Tehran Says It Is Prepared for War But Ready to Negotiate, Eight Palestinians Killed in Intense Winter Storm, Headstone Is Finally Placed for Palestinian Poet Refaat Alareer, Killed in 2023 Israeli Strike, Ex-Treasury Secretaries &amp; Fed Chairs Criticize Criminal Probe into Jerome Powell, Sen. Mark Kelly Sues Defense Secretary Pete Hegseth over &#8220;Unconstitutional Crusade&#8221; to Censure Him, Press Freedom Groups Criticize House Subpoena of Journalist Seth Harp, Military Faces War Crime Accusation for Disguising Military Plane Used in Boat Strike, Russia Launches Another Major Overnight Drone &amp; Missile Attack on Ukraine, <span class=\"caps\">RSF</span> Drone Strike Kills 27 at Sudanese Army Base, <span class=\"caps\">EPA</span> to Stop Considering Health Impacts When Regulating Air Pollution, Judge Blocks Trump Effort to Freeze $10 Billion in Child Care Subsidies for 5 States, Nearly 15,000 Nurses Launch Strike in <span class=\"caps\">NYC</span>; Mayor Mamdani Backs Nurses, Synagogue in Jackson, Miss., Once Bombed by <span class=\"caps\">KKK</span>, Is Damaged in Arson Attack",
+      "link": "http://www.democracynow.org/2026/1/13/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.5,
+        "details": {
+          "subjectivity": 24.8,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9959,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Iran Escalates Deadly Crackdown on Mass Protests as Trump Threatens to Launch Military Attack",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 12 Jan 2026 08:14:24 -0500",
+      "content": "Hundreds of people have reportedly been killed in Iran as authorities crack down on protests against inflation and the government&#8217;s handling of the economic crisis, with thousands more arrested amid a nationwide communications blackout. The protests started in late December and quickly spread across the country, marking the strongest internal challenge to the Iranian government in years. Meanwhile, U.S. President Donald Trump has repeatedly threatened to attack Iran in support of the protesters.</p>\n<p>&#8220;Many civil and political activists in Iran have warned against any kind of foreign intervention, because it actually increases repression inside of the country,&#8221; says Narges Bajoghli, associate professor of Middle East studies at Johns Hopkins University.</p>\n<p>We also speak with Iranian dissident Hamidreza Mohammadi, brother of the imprisoned Nobel laureate Narges Mohammadi. Speaking from Oslo, he says he has been unable to reach his family inside Iran since the start of the protests. &#8220;In the lack of internet and telephone communication, the regime has been able to kill a lot of people,&#8221; Mohammadi says. &#8220;People in Iran simply want [a] different system, and they don&#8217;t want to be enslaved by this regime for its ideological purposes.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/12/iran_protests",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.99,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 12, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 12 Jan 2026 08:00:00 -0500",
+      "content": "Over 500 Protesters Killed in Demonstrations in Iran, Israeli Prime Minister Netanyahu Expresses Support for Iranian Protesters as Israel Continues to Strike Gaza, Anti-<span class=\"caps\">ICE</span> Protests Spread Nationwide Following the Fatal Shooting of Renee Good, <span class=\"caps\">ICE</span> Agent&#8217;s Cellphone Video Shows the Minutes Before Renee Good Was Killed, <span class=\"caps\">NYT</span>: Venezuela&#8217;s Interim President Requests U.S. Help to Seize Rogue Oil Tanker, Nobel Institute Rejects Offer by Venezuelan Opposition Figure Machado to Share Peace Prize with Trump, Trump Threatens Cuba to &#8220;Make a Deal Before It&#8217;s Too Late&#8221;, Denmark&#8217;s Prime Minister Says Country Faces a &#8220;Fateful Moment&#8221; as Trump Threatens to Take Over Greenland, <span class=\"caps\">DOJ</span> Launches Criminal Probe into Federal Reserve Chair Jerome Powell, Smithsonian&#8217;s Portrait Gallery Removes Text on Trump&#8217;s Two Impeachments",
+      "link": "http://www.democracynow.org/2026/1/12/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.3,
+        "details": {
+          "subjectivity": 13.3,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.8834,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"Holding Liat\": Former Israeli Hostage Says \"There Aren't Any Conflicts That Are Unsolvable\"",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 09 Jan 2026 08:51:10 -0500",
+      "content": "Israeli American Liat Beinin Atzili was taken captive during the October 7, 2023, Hamas attack. Over the next two months, her family members, including film director Brandon Kramer, tirelessly advocated for her release, an endeavor now documented in Kramer&#8217;s new film, <em>Holding Liat</em>. We speak to Atzili and Kramer about their family&#8217;s ordeal and Atzili&#8217;s captivity in Gaza, where she was held in isolation alongside another Israeli woman by members of Hamas until November 2023. &#8220;They kept telling us that they had no idea what was going on with other hostages, and that it was their job to keep us safe and to keep us healthy until we were released in a hostage deal. And that&#8217;s what they did,&#8221; she says. Since her release, Atzili has become a fierce advocate for peace and reconciliation. &#8220;There aren&#8217;t any conflicts that are unsolvable. It&#8217;s just a matter of people wanting to speak to each other and wanting to listen and to understand each other&#8217;s stories,&#8221; she says. &#8220;If we don&#8217;t do that, we&#8217;re just allowing violence to take over.&#8221;</p>\n<p><em>Holding Liat</em> premieres Friday, January 9, at Film Forum in New York, where <em>Democracy Now!</em> host Amy Goodman will <a href=\"https://filmforum.org/events/event/holding-liat-january-9\">moderate a Q&amp;A</a> with Liat Atzili and director Brandon Kramer.",
+      "link": "http://www.democracynow.org/2026/1/9/holding_liat",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.5586,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"What Are You Hiding?\" Minnesota AG Keith Ellison Says ICE Killing of Renee Good Must Be Investigated",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 09 Jan 2026 08:14:41 -0500",
+      "content": "Minnesota state investigators say the <span class=\"caps\">FBI</span> is blocking them from investigating the <span class=\"caps\">ICE</span> shooting of Renee Good, a mother of three and award-winning poet who was killed in her car on January 7. The federal government&#8217;s claims of immunity for the <span class=\"caps\">ICE</span> officer \u2014 identified as Iraq War veteran Jonathan Ross \u2014 go against precedent, as does its refusal to cooperate with state authorities, says Minnesota Attorney General Keith Ellison, who is demanding a local and state-led investigation into Good&#8217;s homicide and an end to the Trump administration&#8217;s &#8220;smear tactics&#8221; against Good. &#8220;This is Third Reich stuff,&#8221; adds Ellison, decrying the escalation in aggressive tactics employed by federal immigration officers in Minneapolis and throughout the country. &#8220;This is an unprecedented attack on American institutions.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/9/minnesota_attorney_general_keith_ellison",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.1,
+        "details": {
+          "subjectivity": 16.8,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9382,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  9, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 09 Jan 2026 08:00:00 -0500",
+      "content": "Portland Mayor Calls on <span class=\"caps\">ICE</span> to Halt Operations in City After Border Agents Shot Married Couple, The Killing of Renee Good: Minnesota Officials Fear Cover-Up After <span class=\"caps\">FBI</span> Halts Cooperation with State Investigators, Rep. Robin Kelly to Introduce Articles to Impeach Kristi Noem, Immigration Agents Denounced for Raid Outside Minneapolis High School, Bipartisan Bill Advances in Senate to Block Trump from Taking Military Action in Venezuela, &#8220;Would Be Great Honor&#8221;: Trump on Offer by Machado to Share Nobel Prize with Him, U.S. Considers Sending $100,000 to Each Greenlander as Part of Trump Push to Take Over Island, Protests Continue in Iran; Trump Renews Threat to Attack Iran If Protesters Are Crushed, &#8220;There&#8217;s Neither Peace Nor Truce&#8221;: Israel Kills 14 Palestinians in Gaza, Russia Deploys Hypersonic Missile in Massive Attack on Ukraine, 17 House Republicans Join Democrats to Restore Obamacare Subsidies, Reps. Khanna &amp; Massie Call for Special Master to Oversee <span class=\"caps\">DOJ</span> Release of Epstein Documents, Mamdani &amp; Hochul Announce Plan to Provide Free Child Care for 2-Year-Olds in <span class=\"caps\">NYC</span>",
+      "link": "http://www.democracynow.org/2026/1/9/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.4,
+        "details": {
+          "subjectivity": 4.4,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.4215,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Trump Vows to \"Indefinitely\" Control Venezuela's Oil as U.S. Seizes Two More Oil Tankers",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 08 Jan 2026 08:41:15 -0500",
+      "content": "U.S. forces have seized two more oil tankers with links to Venezuela, days after the U.S. attacked Venezuela and abducted President Nicol\u00e1s Maduro along with his wife, making former Vice President Delcy Rodr\u00edguez the new leader of the country. &#8220;This is a decapitation without regime change,&#8221; says Venezuelan economist Francisco Rodr\u00edguez. &#8220;The political system in Venezuela remains intact.&#8221; In Caracas, former Venezuelan diplomat Carlos Ron says Maduro is a &#8220;prisoner of war&#8221; and that Venezuelans &#8220;are angry and are upset about this incursion from the United States.&#8221; This comes as the Trump administration has announced plans to control sales of Venezuela&#8217;s oil &#8220;indefinitely.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/8/venezuela_carlos_ron_francisco_rodriguez",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.8555,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  8, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 08 Jan 2026 08:00:00 -0500",
+      "content": "<span class=\"caps\">ICE</span> Agent Fatally Shoots 37-Year-Old Minneapolis Mother During Immigration Enforcement Raid, Mayor Tells <span class=\"caps\">ICE</span> to &#8220;Get the Fuck Out of Minneapolis&#8221; as Trump Spreads Disinformation About Shooting, Illinois Rep. Robin Kelly to File Articles of Impeachment Against <span class=\"caps\">DHS</span> Secretary Kristi Noem, White House Plans &#8220;Indefinite&#8221; Control of Venezuela&#8217;s Oil Industry as U.S. Seizes More Tankers, Trump Invites President Gustavo Petro to White House After Threatening Attacks on Colombia, Trump Announces U.S. Withdrawal from Dozens of International Groups and U.N. Agencies, Drone Strike by Sudanese Paramilitary Group Kills 13, Including Children, Israeli Forces Kill Children and Civilians in Fresh Violations of Gaza Ceasefire, U.N. Rights Chief Decries &#8220;Apartheid&#8221; in Occupied West Bank as Israel Approves New Settlements, Trump Calls for Increasing U.S. Military Spending to $1.5 Trillion, House Oversight Committee to Subpoena Billionaire Les Wexner over Epstein Ties",
+      "link": "http://www.democracynow.org/2026/1/8/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.8,
+        "details": {
+          "subjectivity": 18.5,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9719,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Trump's Plan to Seize Greenland Would \"Militarize the Arctic,\" Trample Indigenous Rights",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 07 Jan 2026 08:29:21 -0500",
+      "content": "Following the U.S. attack on Venezuela, the Trump administration has renewed its campaign to take over Greenland, which has been controlled by Denmark for more than 300 years. The White House says it&#8217;s considering &#8220;a range of options,&#8221; including the use of military force. Danish Prime Minister Mette Frederiksen has warned that if the U.S. were to attack Greenland, it would spell the end of <span class=\"caps\">NATO</span>.</p>\n<p>&#8220;Greenland is not up for sale,&#8221; says Aaju Peter, a Greenlandic Inuit activist and attorney, who says Indigenous Greenlanders want their independence from both the U.S. and Denmark.</p>\n<p>We also speak with analyst Pavel Devyatkin, who says the U.S. is &#8220;acting like a rogue state&#8221; and enacting a policy of &#8220;pure imperialism.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/7/greenland_trump",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.3,
+        "details": {
+          "subjectivity": 12.6,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.6705,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"This Is Our Hemisphere\": Report from Colombia on Trump's Escalating Threats to the Region",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 07 Jan 2026 08:11:58 -0500",
+      "content": "Following his attack on Venezuela and the abduction of Nicol\u00e1s Maduro, President Donald Trump has escalated his threats against Colombia and claimed without evidence that President Gustavo Petro is involved in cocaine trafficking. Trump and others in his administration have also threatened military action against Cuba, Greenland, Iran and Mexico in recent days.</p>\n<p>Manuel Rozental, a Colombian physician and activist with more than 40 years of involvement in grassroots political organizing, tells <em>Democracy Now!</em> that Trump&#8217;s attacks on Petro are lies. The former guerrilla &#8220;has seized more cocaine than any other government in the past,&#8221; says Rozental. &#8220;President Petro is not a drug trafficker. President Petro has been a victim of drug mafias and their allies.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/7/colombia_trump",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9705,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  7, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 07 Jan 2026 08:00:00 -0500",
+      "content": "Venezuela&#8217;s Military Announces 24 Security Officers Were Killed in U.S. Attack, Trump: Venezuela Will Give the U.S. Up to 50 Million Barrels of Oil, Secretary of State Rubio Tells Lawmakers Trump Wants to Buy Greenland, U.S. Pledges to Provide Ukraine with Security Guarantees for the First Time, Qatar Accuses Israel of &#8220;Political Blackmail&#8221; for Refusing to Reopen Rafah Crossing, Israeli Foreign Minister Gideon Sa\u2019ar Visits Somaliland, At Least 34 People Killed During Protests in Iran, <span class=\"caps\">ICE</span> Arrests 150 People After <span class=\"caps\">DHS</span> Surges 2,000 Agents to Minnesota, Trump Admin Slashes $10 Billion in Funding for Social Programs in Five Democratic-Led States, The Corporation for Public Broadcasting Votes to Dissolve Itself, American Federation of Teachers Sues Texas Education Department for Probing Teachers&#8217; Speech After Charlie Kirk&#8217;s Death, <span class=\"caps\">GOP</span> Congressmember Doug LaMalfa of California Dies at 65, Trump Warns Democrats Will Impeach Him If Republicans Don&#8217;t Win Midterm Elections",
+      "link": "http://www.democracynow.org/2026/1/7/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.4,
+        "details": {
+          "subjectivity": 14.1,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.9612,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Chevron Stocks Surge After Trump Vows to \"Take Back\" Venezuela's Oil After U.S. Attack",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 06 Jan 2026 08:45:02 -0500",
+      "content": "The share prices of U.S. oil companies surged following the Trump administration&#8217;s attack on Venezuela and abduction of its president, Nicol\u00e1s Maduro. In public statements, Trump has been clear about his desire to reassert U.S. corporate control over Venezuela&#8217;s nationalized oil industry. Now with Trump&#8217;s show of force over Venezuela&#8217;s political sovereignty, many investors see the potential for a similar overpowering of the socialist country&#8217;s economic independence. However, notes financial reporter David Uberti, it won&#8217;t be so easy for Wall Street to make a profit. In addition to upgrading Venezuela&#8217;s &#8220;decrepit&#8221; oil-producing infrastructure, &#8220;they have to push for more appetite for oil around the world.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/6/venezuela_oil",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.4838,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "\"Imperial Laboratory\": Alexander Avi\u00f1a on the \"Donroe\" Doctrine & U.S. Intervention in Latin America",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 06 Jan 2026 08:33:47 -0500",
+      "content": "The share prices of U.S. oil companies surged following the Trump administration&#8217;s attack on Venezuela and abduction of its president, Nicol\u00e1s Maduro. In public statements, Trump has been clear about his desire to reassert U.S. corporate control over Venezuela&#8217;s nationalized oil industry. Now with Trump&#8217;s show of force over Venezuela&#8217;s political sovereignty, many investors see the potential for a similar overpowering of the socialist country&#8217;s economic independence. However, notes financial reporter David Uberti, it won&#8217;t be so easy for Wall Street to make a profit. In addition to upgrading Venezuela&#8217;s &#8220;decrepit&#8221; oil-producing infrastructure, oil companies must push for a greater share of the energy marketplace, just as oil\u2019s popularity is on the decline.",
+      "link": "http://www.democracynow.org/2026/1/6/alexander_avina",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.4,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": 0.9342,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "\"It's All About the Oil, Stupid!\": Mehdi Hasan on Trump Attacking Venezuela & Kidnapping Maduro",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 06 Jan 2026 08:14:27 -0500",
+      "content": "<i>Zeteo</i>'s Mehdi Hasan outlines Donald Trump's &#8220;Donroe Doctrine,&#8221; a throwback foreign policy exemplified by the Trump administration&#8217;s shocking intervention in Venezuela. With his claims of U.S. sovereignty over nations in the Western Hemisphere, &#8220;Trump&#8217;s basically saying, 'Well, this is ours, and China, Russia can have their spheres of influence.' And it is very 19th-century-esque. &#8217;Let&#8217;s divide up the world between the powers.&#8217;&#8221; This orientation is a major shift from U.S. foreign policy of recent decades, such as the 2003 invasion of Iraq, when interventionist actions were framed around ideological motivations, explains Hasan. &#8220;They said it was WMDs. They said it was democracy. They said it was al-Qaeda. They at least pretended that it wasn&#8217;t about the oil.&#8221; Meanwhile, Trump is brazen about his aims to seize control of Venezuela&#8217;s resources and demonstrate that &#8220;might is right.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/6/maduro_venezuela_mehdi_hasan",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.807,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  6, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 06 Jan 2026 08:00:00 -0500",
+      "content": "Nicol\u00e1s Maduro and Cilia Flores Plead &#8220;Not Guilty&#8221; to Drug and Weapons Charges in U.S. Court, Venezuelan VP Delcy Rodr\u00edguez Sworn In as Interim President, U.S. Assault on Venezuela Condemned by Allies and Adversaries Alike at U.N. Security Council, Grand Rapids Police Arrest Protest Antiwar Organizer on TV After She Condemns Trump, <span class=\"caps\">WSJ</span>: Trump Tipped Off Oil Executives a Month Before U.S. Attack on Venezuela, Venezuelan Opposition Leader Machado Says She Plans to Return to Venezuela, Danish Prime Minister Warns U.S. Attack on Greenland Would Mean the End of <span class=\"caps\">NATO</span>, Israel Launches Airstrikes in Lebanon, Claiming to Target Hezbollah and Hamas, U.S. Drops the Number of Vaccines Recommended for Every Child, Democrats Demand Speaker Johnson Unveil a Plaque Honoring Police Officers from Jan. 6 Insurrection, Defense Secretary Hegseth Censures Democratic Sen. Mark Kelly, Trump Admin Deploys 2,000 <span class=\"caps\">ICE</span> Agents to Minneapolis to Probe Alleged Cases of Fraud",
+      "link": "http://www.democracynow.org/2026/1/6/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.0,
+        "details": {
+          "subjectivity": 20.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9638,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Trump \"Just Wants Oil,\" Not Democracy: What's Next in Trump's War on Venezuela?",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 05 Jan 2026 08:39:53 -0500",
+      "content": "<em>Democracy Now!</em> discusses the attack on Venezuela with two Venezuelan American scholars: Alejandro Velasco, an associate history professor at New York University, and Miguel Tinker Salas, emeritus professor of history at Pomona College. The professors react to President Trump&#8217;s comments on the presence of oil in the region and claims that Venezuela had &#8220;stolen&#8221; oil from U.S. companies. &#8220;There was no taking of 'American property or American oil' \u2014 it was Venezuelan oil,&#8221; says Tinker Salas. &#8220;It belonged to Venezuela.&#8221;</p>\n<p>Velasco also comments on Marco Rubio, a central figure in the U.S. campaign against Venezuela, who may have another country as his ultimate target. &#8220;Rubio&#8217;s primary interest in the region is not Venezuela, it&#8217;s not Colombia, it&#8217;s not Mexico \u2014 it&#8217;s Cuba,&#8221; says Velasco.",
+      "link": "http://www.democracynow.org/2026/1/5/maduro_abduction_impact_on_latin_america",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.7574,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"Imperialist Intervention\": Law Prof. David Cole on the Illegality of U.S. Attack on Venezuela",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 05 Jan 2026 08:27:34 -0500",
+      "content": "The Trump administration did not seek congressional authorization prior to attacking Venezuela, as is required by the Constitution. It also violated &#8220;probably the first principle of international law \u2026 that countries have to respect their neighbors, and they can&#8217;t simply invade a neighbor or any other sovereign nation because they don&#8217;t like the way they are running things there,&#8221; says law professor David Cole. The attack was clearly not a law enforcement operation, as the administration has claimed, but an &#8220;imperialist intervention,&#8221; says Cole, who notes President Trump&#8217;s comments on extracting oil from the region.",
+      "link": "http://www.democracynow.org/2026/1/5/maduro_abduction_is_illegal_david_cole",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.3919,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"Venezuela Is Not Going to Be a U.S. Colony\": Report from Caracas on U.S. Attack & Maduro Abduction",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 05 Jan 2026 08:13:53 -0500",
+      "content": "U.S. forces attacked Venezuela and abducted Venezuelan President Nicol\u00e1s Maduro and his wife in a Saturday night raid. About 80 people were reportedly killed, including 32 Cubans. <em>Democracy Now!</em> speaks with Andre\u00edna Ch\u00e1vez, a Venezuelan reporter based in Caracas, who calls the strikes an &#8220;imperialist attack.&#8221; Trump also said the U.S. would take the oil from Venezuela, which has the world&#8217;s largest proven reserves.",
+      "link": "http://www.democracynow.org/2026/1/5/us_venezuela_trump_maduro",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.9661,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  5, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 05 Jan 2026 08:00:00 -0500",
+      "content": "U.S. Launches Attack on Venezuela, Captures Maduro and His Wife, Trump Threatens Colombia, Cuba, Greenland, Iran and Mexico After Attack on Venezuela, Secretary of State Rubio Warns Cuban Government After U.S. Attack on Venezuela, Israeli Prime Minister Netanyahu Congratulates Trump on &#8220;Perfect Operation&#8221; in Venezuela, Russia Affirms Support for Venezuelan Gov&#8217;t After Attacking Ukraine&#8217;s Second-Largest City Kharkiv, Greenland&#8217;s Prime Minister Nielsen Fires Back Against Trump&#8217;s Threats, Top Democrats Say Trump Admin Still Has Not Briefed Congress About Venezuela Attack, Protesters Worldwide Condemn U.S. Assault on Venezuela, Trump Threatens to Strike Iran on Behalf of Protesters, Milwaukee Judge Hannah Dugan Resigns While Appealing Felony Conviction for Aiding Immigrant",
+      "link": "http://www.democracynow.org/2026/1/5/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.987,
+      "stance": "AGAINST"
+    }
+  ],
+  "summary": "COMMON GROUND\nBoth groups acknowledge significant United States involvement or action concerning Venezuela. There is also shared recognition of the Venezuelan opposition leadership and ongoing US engagement with them. Furthermore, the topic of Venezuela's oil resources is consistently referenced across narratives in the context of US actions. The role of former President Trump is frequently mentioned in relation to Venezuela policy by articles in both groups, and the occurrence of events described as a \"U.S. Attack\" or \"U.S. Intervention\" is the common subject under discussion.\n\nTHE CASE IN FAVOR\nThe pro-intervention narrative emphasizes the importance of addressing internal governance issues within Venezuela, such as \"the cartel and justice,\" as articulated by the Venezuelan opposition leadership. This perspective highlights US diplomatic and policy shifts, including meetings between US intelligence officials and Venezuela\u2019s interim leader, signaling support for the opposition. Symbolic gestures, such as the Venezuelan opposition leader presenting a Nobel Peace Prize to former President Trump, are also noted. Proponents also cite economic implications of US actions, referencing a surge in Chevron stocks after former President Trump\u2019s stated vow to \"take back\" Venezuela\u2019s oil following a US action. The narrative also acknowledges US intervention in Latin America, sometimes framed around specific doctrines.\n\nTHE CASE AGAINST\nCritics of US actions in Venezuela raise concerns about potential negative consequences, with some, including former President Trump, drawing parallels to past foreign policy challenges like Iraq as a warning against aligning with the Venezuelan opposition. This perspective highlights human costs, referencing casualties among those defending the current Venezuelan leadership. Opponents frequently characterize US actions as \"aggression,\" \"imperialist intervention,\" or \"illegal,\" asserting that such actions are indicative of an \"empire in decline.\" A central argument from critics is that the primary motivation behind US involvement is control over Venezuela's oil resources, with claims of an intent to \"indefinitely control\" Venezuela's oil and the seizure of oil tankers, rather than a genuine pursuit of democracy. This narrative describes US actions as \"escalating threats,\" an \"attack,\" a \"war,\" or even the \"abduction\" of the current leader, rejecting the notion of Venezuela becoming a \"U.S. Colony.\"\n\nOBSERVATIONS ON EMPHASIS\nProponents of US action tend to emphasize the internal governance issues within Venezuela and the legitimacy of the opposition, alongside US diplomatic and strategic support for them. They also highlight potential economic benefits or the strategic importance of Venezuela's oil. Critics, conversely, focus heavily on the legality and perceived motivations behind US intervention, casting it as resource-driven and imperialist, while underscoring the potential for negative consequences and human cost. They also emphasize the perceived illegitimacy of the \"attack\" and the broader implications for national sovereignty and international law.",
+  "prompt_used": "ROLE: You are a senior newspaper editor. Your task is to synthesize multiple narratives into a single, high-quality, neutral editorial summary.\n\nTONE GUIDELINES:\n- Neutral, precise, and calm.\n- Editorial style, not academic. Avoid jargon.\n- No moralizing language (e.g., avoid 'unfortunately', 'rightly').\n- Do NOT strictly declare one side correct.\n- Do NOT mention 'bias', 'sentiment', or 'AI'.\n- Use 'The pro-[topic] narrative emphasizes...' or 'Critics argue...' rather than 'User 1 said...'.\n\nTOPIC: US attack on Venezuel\n\nINPUT DATA:\n--- GROUP A: ARTICLES IN FAVOR (SUPPORTING) ---\n1. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Venezuelan Opposition Leader Says Next Steps Have To Address \u2018The Cartel And Justice\u2019\n2. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: CIA Director Meets With Venezuela\u2019s Interim Leader As U.S. Shifts Policy\n3. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Trump Ends Up With Nobel After All As Venezuela\u2019s Machado Gifts Prize At White House\n4. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: \u2018We Help Our Neighbors\u2019: Minnesota State Lawmaker Tries To Defend Group Attack On ICE Agent\n5. [Breitbart News | right] Summary: Ukrainian Delegation Arrives in U.S. for Peace Talks in Hopes of Finalizing Deal\n6. [Politics | left] Summary: 'Appease Prize': Critics Stunned By Venezuela's Machado Nobel Handoff To Trump\n7. [Politics | left] Summary: Venezuelan Opposition Leader Says She Presented Her Nobel Peace Prize To Trump\n8. [Democracy Now! | left] Summary: FBI Raids Home of Washington Post Reporter as Attacks on Press Freedom Intensify Under Trump\n9. [Democracy Now! | left] Summary: Chevron Stocks Surge After Trump Vows to \"Take Back\" Venezuela's Oil After U.S. Attack\n10. [Democracy Now! | left] Summary: \"Imperial Laboratory\": Alexander Avi\u00f1a on the \"Donroe\" Doctrine & U.S. Intervention in Latin America\n\n--- GROUP B: ARTICLES AGAINST (OPPOSING) ---\n1. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: LIVE UPDATES: Trump Warns Of Dangers Of Aligning With Venezuelan Opposition, Cites Iraq As Example\n2. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Why Are Democrats Defending A Narco-Terrorist Dictator?\n3. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Investigation: Iran Accused Of Using \u2018Dirty\u2019 Radioactive Warheads On U.S. Troops In 2020\n4. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: The Fog Of Trump: How Unpredictability Keeps Iran Guessing\n5. [Breitbart News | right] Summary: Cuban Guards Killed Defending Nicolas Maduro Returned Home in Small Boxes\n6. [Democracy Now! | left] Summary: Headlines for January 16, 2026\n7. [Democracy Now! | left] Summary: Headlines for January 15, 2026\n8. [Democracy Now! | left] Summary: Headlines for January 14, 2026\n9. [Democracy Now! | left] Summary: \"Empire in Decline\": Historian Alfred McCoy on U.S. Aggression in Venezuela, Iran & Beyond\n10. [Democracy Now! | left] Summary: Headlines for January 13, 2026\n11. [Democracy Now! | left] Summary: Iran Escalates Deadly Crackdown on Mass Protests as Trump Threatens to Launch Military Attack\n12. [Democracy Now! | left] Summary: Headlines for January 12, 2026\n13. [Democracy Now! | left] Summary: \"Holding Liat\": Former Israeli Hostage Says \"There Aren't Any Conflicts That Are Unsolvable\"\n14. [Democracy Now! | left] Summary: \"What Are You Hiding?\" Minnesota AG Keith Ellison Says ICE Killing of Renee Good Must Be Investigated\n15. [Democracy Now! | left] Summary: Headlines for January  9, 2026\n16. [Democracy Now! | left] Summary: Trump Vows to \"Indefinitely\" Control Venezuela's Oil as U.S. Seizes Two More Oil Tankers\n17. [Democracy Now! | left] Summary: Headlines for January  8, 2026\n18. [Democracy Now! | left] Summary: Trump's Plan to Seize Greenland Would \"Militarize the Arctic,\" Trample Indigenous Rights\n19. [Democracy Now! | left] Summary: \"This Is Our Hemisphere\": Report from Colombia on Trump's Escalating Threats to the Region\n20. [Democracy Now! | left] Summary: Headlines for January  7, 2026\n21. [Democracy Now! | left] Summary: \"It's All About the Oil, Stupid!\": Mehdi Hasan on Trump Attacking Venezuela & Kidnapping Maduro\n22. [Democracy Now! | left] Summary: Headlines for January  6, 2026\n23. [Democracy Now! | left] Summary: Trump \"Just Wants Oil,\" Not Democracy: What's Next in Trump's War on Venezuela?\n24. [Democracy Now! | left] Summary: \"Imperialist Intervention\": Law Prof. David Cole on the Illegality of U.S. Attack on Venezuela\n25. [Democracy Now! | left] Summary: \"Venezuela Is Not Going to Be a U.S. Colony\": Report from Caracas on U.S. Attack & Maduro Abduction\n26. [Democracy Now! | left] Summary: Headlines for January  5, 2026\n\n\nOUTPUT INSTRUCTIONS:\nProduce a written summary with the following FOUR clearly labeled sections. IMPORTANT: Do NOT use any markdown formatting (like *, #, **). Output strictly plain text. Do NOT make titles bold. Do NOT use bullet points unless creating a list.\n\n1. COMMON GROUND\n   - Identify facts or points agreed upon by both groups.\n   - If no obvious agreement, note the shared subject matter factually.\n\n2. THE CASE IN FAVOR\n   - Summarize the arguments and focus of the IN FAVOR group.\n   - Attribute these views generally to proponents.\n\n3. THE CASE AGAINST\n   - Summarize the arguments and focus of the AGAINST group.\n   - Attribute these views generally to critics or opponents.\n\n4. OBSERVATIONS ON EMPHASIS\n   - Briefly note what each side specifically highlights or omits.\n   - Example: 'Supporters focus on economic growth, while opponents focus on environmental risk.'\n   - Keep this descriptive."
+}

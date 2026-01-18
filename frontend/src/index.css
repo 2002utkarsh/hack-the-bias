@@ -1,0 +1,166 @@
+/* Global Reset */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f5f5f0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar hiding if needed */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.hover-scale {
+  transition: transform 0.2s ease;
+}
+
+.hover-scale:hover {
+  transform: scale(1.02);
+}
+
+.hover-brightness {
+  transition: filter 0.2s ease;
+}
+
+/* Trending Pill Button */
+.trending-pill {
+  border: 1px solid transparent;
+  /* Reserve space for border */
+  transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.trending-pill::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: currentColor;
+  opacity: 0;
+  z-index: -1;
+  transition: opacity 0.2s ease;
+}
+
+.trending-pill:hover::after {
+  opacity: 0.1;
+}
+
+.trending-pill:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Bias Score Bubble */
+/* Bias Score Bubble - CVD Support */
+:root {
+  /* Default */
+  --bias-low: #4caf50;
+  /* Green */
+  --bias-med: #ff9800;
+  /* Orange/Yellow */
+  --bias-high: #f44336;
+  /* Red */
+}
+
+/* Protanopia (Red-Blind) */
+[data-view-mode="protanopia"] {
+  --bias-low: #0072B2;
+  /* Blue */
+  --bias-med: #F0E442;
+  /* Yellow */
+  --bias-high: #D55E00;
+  /* Vermillion */
+}
+
+/* Deuteranopia (Green-Blind) */
+[data-view-mode="deuteranopia"] {
+  --bias-low: #0072B2;
+  /* Blue */
+  --bias-med: #E69F00;
+  /* Orange */
+  --bias-high: #D55E00;
+  /* Vermillion */
+}
+
+/* Tritanopia (Blue-Blind) */
+[data-view-mode="tritanopia"] {
+  --bias-low: #009E73;
+  /* Teal */
+  --bias-med: #cc79a7;
+  /* Pink */
+  --bias-high: #D55E00;
+  /* Vermillion */
+}
+
+.bias-bubble {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 13px;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: background-color 0.3s ease;
+}
+
+.bias-low {
+  background-color: var(--bias-low);
+}
+
+.bias-med {
+  background-color: var(--bias-med);
+}
+
+.bias-high {
+  background-color: var(--bias-high);
+}
+
+/* Loading Spinner */
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 3px solid;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

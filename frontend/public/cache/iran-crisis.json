@@ -1,0 +1,667 @@
+{
+  "topic": "Iran Crisis",
+  "articles": [
+    {
+      "title": "Jeb Bush heaps praise on Trump\u2019s \u2018unprecedented support\u2019 for Iranians 10 years after heated primary",
+      "source": "Latest Political News on Fox News",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 09:44:38 -0500",
+      "content": "Jeb Bush praises Trump&apos;s &apos;historic leadership&apos; on Iran policy, marking a shift from their bitter 2016 rivalry when Trump dubbed him &apos;Low-Energy Jeb.&apos;",
+      "link": "https://www.foxnews.com/politics/jeb-bush-heaps-praise-trumps-unprecedented-support-iranians-10-years-after-raucous-primary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.6369,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Michael Goodwin: Trump spared the ayatollah for now\u2014 but his options in Iran are still wide open",
+      "source": "New York Post",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 22:32:49 -0500",
+      "content": "Almost from the day Donald Trump entered the political arena, the legacy media have been committed to depicting him as a trigger-happy warmonger who\u2019d rather shoot first and ask questions later.",
+      "link": "https://nypost.com/2026/01/17/opinion/trump-doesnt-need-to-rely-on-the-military-to-get-things-done-but-it-can-be-used-if-needed/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/1212DJT464545.jpg?quality=75&#038;strip=all&#038;w=1200",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.7783,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Iranian doctors reportedly say protest death toll over 16K: \u2018Genocide under the cover of digital darkness\u2019",
+      "source": "New York Post",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 21:10:40 -0500",
+      "content": "\"They said they would kill us until this stops and that's what they are doing.\"",
+      "link": "https://nypost.com/2026/01/17/world-news/iranian-doctors-say-death-toll-over-16k-as-regime-cracks-down-on-protests-genocide-under-the-cover-of-digital-darkness/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/119122283.jpg?quality=75&#038;strip=all&#038;w=1200",
+      "scores": {
+        "bias_score_1_to_10": 5.8,
+        "details": {
+          "subjectivity": 27.7,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9072,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Watch: How could Trump respond to Iran crackdown?",
+      "source": "BBC News",
+      "political_bucket": "center",
+      "published_at": "Mon, 12 Jan 2026 21:50:36 GMT",
+      "content": "The US president and his administration have threatened \"very strong options\" to intervene in Iran, including military action.",
+      "link": "https://www.bbc.com/news/videos/cwy160gd773o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9de8/live/9c320970-f020-11f0-b385-5f48925de19a.jpg",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Trump aims to keep everyone guessing over Iran action",
+      "source": "BBC News",
+      "political_bucket": "center",
+      "published_at": "Thu, 15 Jan 2026 22:21:45 GMT",
+      "content": "There were growing signs that US military action on Iran might be imminent, then the US president suddenly changed his tune.",
+      "link": "https://www.bbc.com/news/articles/c801dg2lk1xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a110/live/45b2aab0-f25e-11f0-bfd6-49ce1c503815.jpg",
+      "scores": {
+        "bias_score_1_to_10": 6.4,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Decision time for Trump on Iran but what does he ultimately want?",
+      "source": "BBC News",
+      "political_bucket": "center",
+      "published_at": "Tue, 13 Jan 2026 16:46:50 GMT",
+      "content": "As Iran's deadly crackdown on anti-government protests continues, the US president is considering how best to respond.",
+      "link": "https://www.bbc.com/news/articles/cj6wr4kew08o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/679c/live/eafba660-f061-11f0-b385-5f48925de19a.png",
+      "scores": {
+        "bias_score_1_to_10": 6.4,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Iran protest death toll surges to over 3,300: Activist group",
+      "source": "Just In News",
+      "political_bucket": "center",
+      "published_at": "Sun, 18 Jan 2026 03:49:47 +0000",
+      "content": "A human rights group on Saturday found that the number of deaths during widespread anti-government protests in Iran has reached over 3,300. The Human Rights Group Activist News Agency verified the latest death toll after three weeks of protests, with 4,382 cases that the group said are still under review. \"So far, 2,107 people with...",
+      "link": "https://thehill.com/policy/international/5694586-iran-protests-death-toll-3300/",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Sunday shows preview: Trump faces scrutiny over Greenland, Iran moves",
+      "source": "Just In News",
+      "political_bucket": "center",
+      "published_at": "Sat, 17 Jan 2026 23:10:18 +0000",
+      "content": "President Trump is facing scrutiny over his increasing demands for the U.S. to acquire Greenland, facing pushback from Danish and Greenlandic leaders, some Republican lawmakers and a majority of Americans. The president has frequently said the U.S. needs the island territory for national security purposes, citing the threat of Russia and China having access to...",
+      "link": "https://thehill.com/video-clips/sunday-shows/5694328-sunday-shows-trump-tariffs-greenland-iran-ice-minnesota/",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.2,
+        "details": {
+          "subjectivity": 22.2,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "LIVE UPDATES: Iran\u2019s Khamenei Blames Protester Deaths On United States, Trump",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 19:00:33 GMT",
+      "content": "",
+      "link": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0258,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Both Sides Of The Aisle Want Broader U.S. Action Against Iran\u2019s Repression",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 11:21:50 GMT",
+      "content": "In a significant display of bipartisan unity,\u00a0Texas GOP Congressman Randy Weber led a group of\u00a059 lawmakers\u00a0in a formal letter to\u00a0Secretary of State Marco Rubio, urging the Trump administration to maintain its forceful condemnation of the Iranian regime&#8217;s escalating violence. The letter comes amid harrowing reports that the theocratic government has transitioned from standard riot control ...",
+      "link": "https://www.dailywire.com/news/both-sides-of-the-aisle-want-broader-u-s-action-against-irans-repression",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9186,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Investigation: Iran Accused Of Using \u2018Dirty\u2019 Radioactive Warheads On U.S. Troops In 2020",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 09:58:00 GMT",
+      "content": "In a stunning revelation that underscores the malevolent depths of the Iranian regime, a new investigation by Catherine Herridge suggests that the 2020 Iranian ballistic missile attack on Al Asad Air Base was far more than a conventional strike. While the public was told at the time that no Americans died, the reality is a ...",
+      "link": "https://www.dailywire.com/news/investigation-iran-accused-of-using-dirty-radioactive-warheads-on-u-s-troops-in-2020",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.3561,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Morning Brief: Trump Threatens Insurrection Act, Iran On Edge & Senators Scrutinize Abortion Pill",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Fri, 16 Jan 2026 07:53:23 GMT",
+      "content": "President Donald Trump weighs military action in Minneapolis, the White House maintains pressure on Iran as Trump ratchets down his rhetoric, and the Senate hears the testimony against mail-order abortion pills. It\u2019s Friday, January 16, 2026, and this is the news you need to know to start your day. Today\u2019s edition of the Morning Wire ...",
+      "link": "https://www.dailywire.com/news/morning-brief-trump-threatens-insurrection-act-iran-on-edge-senators-scrutinize-abortion-pill",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 3.6,
+        "details": {
+          "subjectivity": 6.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.5859,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "The Fog Of Trump: How Unpredictability Keeps Iran Guessing",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 15:55:00 GMT",
+      "content": "When Iranian airspace closed on Wednesday night, it seemed like an American attack was imminent. Some military assets moved, American bases had degrees of evacuations, and tension spiked. But the attack never came. Experts now warn that this is not an end to the standoff, but a strategic maneuver in what they call the \u201cfog ...",
+      "link": "https://www.dailywire.com/news/the-fog-of-trump-how-unpredictability-keeps-iran-guessing",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.4,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 4.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.7469,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Democrats: ICE Is Just Like The Ayatollahs",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 15:17:53 GMT",
+      "content": "The Democratic Party is insisting that basic law enforcement action against illegal immigrants, particularly criminal illegal immigrants, is some sort of violation of the American compact. They are, astonishingly, equating the American system with the Iranian ayatollahs in terms of tyranny.\u00a0 That is the case currently being made by Ken Martin, the chair of the ...",
+      "link": "https://www.dailywire.com/news/democrats-ice-is-just-like-the-ayatollahs",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.8876,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\u2018Take Out The Trash\u2019: GOP Senator Urges U.S. Support For Overthrowing Iran\u2019s Terror Regime",
+      "source": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "political_bucket": "right",
+      "published_at": "Thu, 15 Jan 2026 13:49:22 GMT",
+      "content": "Hard-line conservative Sen. Tim Sheehy (R-MT) on Thursday bluntly called for the United States support regime change in Iran, saying America should help the Iranian people &#8220;take out the trash.\u201d Sheehy, a former Navy SEAL who served in Iraq and Afghanistan, posted a photo of himself earlier this week smoking a cigarette that appeared to ...",
+      "link": "https://www.dailywire.com/news/take-out-the-trash-gop-senator-urges-u-s-support-for-overthrowing-irans-terror-regime",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": 0.7579,
+      "stance": "IN_FAVOR"
+    },
+    {
+      "title": "Trump Calls for \u2018New Leadership\u2019 in Iran, Says \u2018Sick Man\u2019 Ayatollah Ali Khamenei Has Made Nation \u2018Worst Place to Live\u2019",
+      "source": "Breitbart News",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 19:56:02 +0000",
+      "content": "<p>President Donald Trump, responding to Ayatollah Ali Khamenei\u2019s attempt to blame him for recent protester deaths, slammed the Iranian Supreme Leader as a \u201csick man\u201d and called for \u201cnew leadership,\u201d declaring: \u201cHis country is the worst place to live anywhere in the world because of poor leadership.\u201d</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/01/17/trump-calls-for-new-leadership-in-iran-says-sick-man-ayatollah-ali-khamenei-has-made-nation-worst-place-to-live/\" rel=\"nofollow\">Trump Calls for \u2018New Leadership\u2019 in Iran, Says \u2018Sick Man\u2019 Ayatollah Ali Khamenei Has Made Nation \u2018Worst Place to Live\u2019</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+      "link": "https://www.breitbart.com/politics/2026/01/17/trump-calls-for-new-leadership-in-iran-says-sick-man-ayatollah-ali-khamenei-has-made-nation-worst-place-to-live/",
+      "image": "https://media.breitbart.com/media/2026/01/Trump-Ayatollah-640x335.png",
+      "scores": {
+        "bias_score_1_to_10": 7.6,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 16.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.7184,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Khamenei Celebrates \u2018Defeat\u2019 of U.S., Mocks \u2018Criminal\u2019 Trump: America Must Be \u2018Held Accountable\u2019",
+      "source": "Breitbart News",
+      "political_bucket": "right",
+      "published_at": "Sat, 17 Jan 2026 20:38:02 +0000",
+      "content": "<p>\u201cThe Iranian nation defeated the U.S.,\u201d declared Iran\u2019s Ayatollah Ali Khamenei, insisting the U.S.  must \u201cbe held accountable.\u201d</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/01/17/khamenei-celebrates-defeat-u-s-mocks-criminal-trump-america-must-be-held-accountable/\" rel=\"nofollow\">Khamenei Celebrates \u2018Defeat\u2019 of U.S., Mocks \u2018Criminal\u2019 Trump: America Must Be \u2018Held Accountable\u2019</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+      "link": "https://www.breitbart.com/politics/2026/01/17/khamenei-celebrates-defeat-u-s-mocks-criminal-trump-america-must-be-held-accountable/",
+      "image": "https://media.breitbart.com/media/2026/01/Ayatollah-Ali-Khamenei-640x335.jpg",
+      "scores": {
+        "bias_score_1_to_10": 7.6,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 16.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.1779,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Iran's Khamenei says Trump is \"guilty for the casualties\" in protests",
+      "source": "Politics - CBSNews.com",
+      "political_bucket": "center",
+      "published_at": "Sat, 17 Jan 2026 20:48:52 -0500",
+      "content": "The country's leader criticized President Trump on Saturday, blaming him for \"casualties, damages and accusations\" against Iran.",
+      "link": "https://www.cbsnews.com/news/iran-khamenei-protests-trump-guilty-criminal/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/14/9aa08763-fe20-4408-aa85-18f84510191a/thumbnail/1200x630/b1067d769ca882ee48ad4823af3e2e3d/cbsn-fusion-iranians-look-for-loved-ones-at-morgue-with-over-12000-feared-dead-after-protests-thumbnail.jpg",
+      "scores": {
+        "bias_score_1_to_10": 4.2,
+        "details": {
+          "subjectivity": 12.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Iran blames U.S. for protests, Trump punches back",
+      "source": "Politics - CBSNews.com",
+      "political_bucket": "center",
+      "published_at": "Sat, 17 Jan 2026 20:43:00 -0500",
+      "content": "Iran's supreme leader blamed the U.S. for the protests against his regime that resulted in a violent crackdown. Willie James Inman has President Trump's response.",
+      "link": "https://www.cbsnews.com/video/iran-blames-us-protests-trump-punches-back/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/18/b1930de0-49e7-4a11-a865-f59e1d093b1d/thumbnail/1200x630/727842f4b1da3eda894b0ec6dad5dee4/cbsn-fusion-iran-blames-us-protests-trump-punches-back-thumbnail.jpg",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": 0.0,
+      "stance": "NEUTRAL"
+    },
+    {
+      "title": "Iran's Leader Calls Trump A 'Criminal' For Backing Protesters",
+      "source": "Politics",
+      "political_bucket": "left",
+      "published_at": "Sat, 17 Jan 2026 08:50:01 -0500",
+      "content": "In recent days, Trump had told protesting Iranians that \u201chelp is on the way\u201d and that his administration would \u201cact accordingly\u201d if the killing of demonstrators continued.",
+      "link": "https://www.huffpost.com/entry/irans-leader-calls-trump-criminal-backing-protesters_n_696b915ae4b0c97f839ea47f",
+      "image": "https://img.huffingtonpost.com/asset/6967e306140000c05764c3f4.jpeg?cache=Yj9z9kUvg3&amp;ops=1200_630",
+      "scores": {
+        "bias_score_1_to_10": 5.0,
+        "details": {
+          "subjectivity": 20.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9081,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 16, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 16 Jan 2026 08:00:00 -0500",
+      "content": "Trump Threatens to Invoke Insurrection Act to Suppress Protests Against Federal Agents&#8217; Abuses, <span class=\"caps\">ACLU</span> Lawsuit Seeks to Halt &#8220;Unprecedented Level of Violence&#8221; Committed by Immigration Agents, Records Reveal Minneapolis Mother Renee Good Was Struck Multiple Times by <span class=\"caps\">ICE</span> Agent&#8217;s Bullets, Medical Examiner: Cuban Immigrant&#8217;s Death in Texas <span class=\"caps\">ICE</span> Jail Was from &#8220;Asphyxia Due to Neck and Chest Compression&#8221;, Pentagon Orders Carrier Strike Group to Middle East as Trump Threatens to Attack Iran, U.S. Seizes Another Oil Tanker as Venezuela&#8217;s Interim President Proposes Opening Oil Sector, Cuba Repatriates Remains of 32 Officers Killed in U.S. Attack on Venezuela, Mar\u00eda Corina Machado Gives Nobel Peace Prize to Donald Trump, <span class=\"caps\">NATO</span> Members Deploy Soldiers to Greenland Amid Trump&#8217;s Threat to Seize Territory, Israeli Forces Kill 10 Palestinians in Latest Violations of U.S.-Brokered Ceasefire Deal, Appellate Court Overturns Ruling That Freed Palestinian Activist Mahmoud Khalil, Trump Says 2026 Midterm Elections Should Be Canceled, <span class=\"caps\">CBS</span> News &#8220;Exclusive&#8221; That <span class=\"caps\">ICE</span> Officer &#8220;Suffered Internal Bleeding&#8221; Draws &#8220;Huge Internal Concern&#8221;",
+      "link": "http://www.democracynow.org/2026/1/16/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.0,
+        "details": {
+          "subjectivity": 20.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9792,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"This Regime Will Fall\": Director Jafar Panahi on Deadly Iran Protests & Filmmaking Under Censorship",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 08:32:13 -0500",
+      "content": "With Iran gripped by nationwide protests that activists say have left at least 2,600 people dead, we recently spoke with renowned Iranian filmmaker Jafar Panahi, whose latest film, <em>It Was Just an Accident</em>, was shot entirely in secret inside Iran and won the Palme d&#8217;Or at the 2025 Cannes Film Festival. The film has since been shortlisted for an Oscar in the international feature category. Panahi dedicated a recent New York Film Critics Circle Award to Iranian protesters.</p>\n<p><em>It Was Just an Accident</em> centers on a group of former prisoners who kidnap a man they believe was their interrogator and grapple with whether to exact revenge, and Panahi says the film drew directly from his own experience with state violence and repression. Panahi has been repeatedly arrested in Iran, served prison sentences, and was recently sentenced in absentia to an additional year in prison and a two-year travel ban.</p>\n<p>In an extended interview, Pahani discussed the protests in Iran, fighting against censorship, and the risk of prolonged cycles of violence. &#8220;I have always said this regime will fall. It is impossible for it to not fall, because it&#8217;s a failed state in every sense,&#8221; he said. &#8220;What I care about is the future of my country. I want the country to stand. I want there to be peace, and I want our children and the children of our children to not be facing bullets.&#8221; He was interpreted by Sheida Dayani.",
+      "link": "http://www.democracynow.org/2026/1/15/jafar_panahi",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 7.8,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 8.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.9726,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 15, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Thu, 15 Jan 2026 08:00:00 -0500",
+      "content": "U.S. Pulls Back from Some Middle East Bases Amid Trump&#8217;s Threats to Attack Iran, State Department to Halt Processing Visas for Immigrants from 75 Countries, <span class=\"caps\">ICE</span> Shoots Man in Minneapolis After Gov. Walz Decries Federal &#8220;Campaign of Organized Brutality&#8221;, <span class=\"caps\">ICE</span> Jails Oglala Sioux Members at Fort Snelling, Site of 19th-Century Concentration Camp, Protester in Santa Ana Is Left Permanently Blind by &#8220;Less Lethal&#8221; Round Fired by Federal Agent, ProPublica: <span class=\"caps\">ICE</span> Agents Used Potentially Fatal Chokeholds in 40+ Cases, Maine Officials Warn <span class=\"caps\">ICE</span> Is Preparing Surge into Lewiston and Portland, Danish Foreign Minister: &#8220;Fundamental Disagreement&#8221; with Trump over Greenland, Trump&#8217;s Middle East Envoy Witkoff Says Gaza Truce Has Entered Its Second Phase, Senate Republicans Kill War Powers Resolution to Limit Trump on Venezuela, <span class=\"caps\">FBI</span> Agents Raid Home of Washington Post Reporter Hannah Natanson, Democratic Lawmakers Say <span class=\"caps\">DOJ</span> Is Investigating Them over Video to U.S. Service Members, Trump Flips Middle Finger to Autoworker Who Called Him a &#8220;Pedophile Protector&#8221;",
+      "link": "http://www.democracynow.org/2026/1/15/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9769,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 14, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 14 Jan 2026 08:00:00 -0500",
+      "content": "Over 2,500 People Killed in Anti-Government Protests in Iran, <span class=\"caps\">DOJ</span> Releases Memo Stating That Trump Had Constitutional Power to Attack Venezuela, Interim Venezuelan Government Releases at Least Four U.S. Citizens Imprisoned in the Country, Cuba&#8217;s President Defies the U.S. as Trump Pressures Cuban Government to Make a Deal, Vice President Vance and Secretary of State Rubio Expected to Meet with the Leaders of Denmark and Greenland, Six Federal Prosecutors in Minnesota Resign over DOJ&#8217;s Handling of Renee Good&#8217;s Shooting, Trump Admin to Suspend Federal Funding for Sanctuary Cities and States Next Month, Trump Admin Ending Temporary Protected Status for Immigrants from Somalia, <span class=\"caps\">SCOTUS</span> Poised to Uphold State Laws Banning Transgender Youths from Participating in School Sports, Far-Right Zionist Group Betar US to End Its Operations in New York After Probe by New York Attorney General Letitia James, Louisiana Seeks to Extradite California Doctor for Providing Abortion Pills, Claudette Colvin, Pioneer in the Civil Rights Movement, Dies at 86",
+      "link": "http://www.democracynow.org/2026/1/14/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.7,
+        "details": {
+          "subjectivity": 17.1,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9451,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"Empire in Decline\": Historian Alfred McCoy on U.S. Aggression in Venezuela, Iran & Beyond",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 13 Jan 2026 08:44:42 -0500",
+      "content": "As President Trump threatens Iran, Venezuela, Mexico, Greenland and more, renowned historian Alfred McCoy says the United States is &#8220;an empire in decline,&#8221; following a predictable pattern of militarism abroad and political instability at home as it loses power and influence on the world stage. &#8220;American politics become increasingly contorted and irrational,&#8221; says McCoy. &#8220;I think the thing to do is to realize that we are an empire in decline, \u2026 and it will continue for another decade or two, until American power finally slips away.&#8221;</p>\n<p>McCoy just published his latest book, <em>Cold War on Five Continents: A Global History of Empire and Espionage</em>, on the impact of U.S.-Soviet imperial proxy wars in Africa, Asia and Latin America.",
+      "link": "http://www.democracynow.org/2026/1/13/alfred_mccoy_cold_war_on_five",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.8957,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"State of Siege\": Iran Protest Death Toll Rises to 2,000 After U.S. Sanctions Spawn Economic Crisis",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 13 Jan 2026 08:32:16 -0500",
+      "content": "Iran has said it&#8217;s ready for &#8220;war&#8221; or dialogue after President Trump said the U.S. was considering &#8220;very strong options&#8221; to intervene if Iran&#8217;s security forces kill anti-government protesters in an ongoing crackdown. Vali Nasr, professor at Johns Hopkins School of Advanced International Studies, says the U.S. &#8220;can wage full-scale war on Iran \u2014 which President Trump does not seem to be eager to do \u2014 or it can hope to squeeze Iran economically in order to create political unrest in Iran.&#8221;</p>\n<p>This comes as at least 648 people have been killed since protests broke out in late December,  according to the Norway-based group Iran Human Rights, and over 10,000 people have been arrested. Iranian officials say the number of dead could be as high as 2,000.",
+      "link": "http://www.democracynow.org/2026/1/13/vali_nasr_iran_protests_trump",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9686,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 13, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Tue, 13 Jan 2026 08:00:00 -0500",
+      "content": "Minnesota &amp; Illinois Sue over &#8220;Federal Invasion&#8221; by <span class=\"caps\">ICE</span> Agents, <span class=\"caps\">ICE</span> Agents in Minneapolis Fire Tear Gas, Pepper Spray at Protests over Immigration Raids, Four Top <span class=\"caps\">DOJ</span> Officials Resign over Decision Not to Probe <span class=\"caps\">ICE</span> Killing of Renee Good, As Trump Weighs Iran Strikes, Tehran Says It Is Prepared for War But Ready to Negotiate, Eight Palestinians Killed in Intense Winter Storm, Headstone Is Finally Placed for Palestinian Poet Refaat Alareer, Killed in 2023 Israeli Strike, Ex-Treasury Secretaries &amp; Fed Chairs Criticize Criminal Probe into Jerome Powell, Sen. Mark Kelly Sues Defense Secretary Pete Hegseth over &#8220;Unconstitutional Crusade&#8221; to Censure Him, Press Freedom Groups Criticize House Subpoena of Journalist Seth Harp, Military Faces War Crime Accusation for Disguising Military Plane Used in Boat Strike, Russia Launches Another Major Overnight Drone &amp; Missile Attack on Ukraine, <span class=\"caps\">RSF</span> Drone Strike Kills 27 at Sudanese Army Base, <span class=\"caps\">EPA</span> to Stop Considering Health Impacts When Regulating Air Pollution, Judge Blocks Trump Effort to Freeze $10 Billion in Child Care Subsidies for 5 States, Nearly 15,000 Nurses Launch Strike in <span class=\"caps\">NYC</span>; Mayor Mamdani Backs Nurses, Synagogue in Jackson, Miss., Once Bombed by <span class=\"caps\">KKK</span>, Is Damaged in Arson Attack",
+      "link": "http://www.democracynow.org/2026/1/13/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.5,
+        "details": {
+          "subjectivity": 24.8,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9959,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Iran Escalates Deadly Crackdown on Mass Protests as Trump Threatens to Launch Military Attack",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 12 Jan 2026 08:14:24 -0500",
+      "content": "Hundreds of people have reportedly been killed in Iran as authorities crack down on protests against inflation and the government&#8217;s handling of the economic crisis, with thousands more arrested amid a nationwide communications blackout. The protests started in late December and quickly spread across the country, marking the strongest internal challenge to the Iranian government in years. Meanwhile, U.S. President Donald Trump has repeatedly threatened to attack Iran in support of the protesters.</p>\n<p>&#8220;Many civil and political activists in Iran have warned against any kind of foreign intervention, because it actually increases repression inside of the country,&#8221; says Narges Bajoghli, associate professor of Middle East studies at Johns Hopkins University.</p>\n<p>We also speak with Iranian dissident Hamidreza Mohammadi, brother of the imprisoned Nobel laureate Narges Mohammadi. Speaking from Oslo, he says he has been unable to reach his family inside Iran since the start of the protests. &#8220;In the lack of internet and telephone communication, the regime has been able to kill a lot of people,&#8221; Mohammadi says. &#8220;People in Iran simply want [a] different system, and they don&#8217;t want to be enslaved by this regime for its ideological purposes.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/12/iran_protests",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.99,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January 12, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 12 Jan 2026 08:00:00 -0500",
+      "content": "Over 500 Protesters Killed in Demonstrations in Iran, Israeli Prime Minister Netanyahu Expresses Support for Iranian Protesters as Israel Continues to Strike Gaza, Anti-<span class=\"caps\">ICE</span> Protests Spread Nationwide Following the Fatal Shooting of Renee Good, <span class=\"caps\">ICE</span> Agent&#8217;s Cellphone Video Shows the Minutes Before Renee Good Was Killed, <span class=\"caps\">NYT</span>: Venezuela&#8217;s Interim President Requests U.S. Help to Seize Rogue Oil Tanker, Nobel Institute Rejects Offer by Venezuelan Opposition Figure Machado to Share Peace Prize with Trump, Trump Threatens Cuba to &#8220;Make a Deal Before It&#8217;s Too Late&#8221;, Denmark&#8217;s Prime Minister Says Country Faces a &#8220;Fateful Moment&#8221; as Trump Threatens to Take Over Greenland, <span class=\"caps\">DOJ</span> Launches Criminal Probe into Federal Reserve Chair Jerome Powell, Smithsonian&#8217;s Portrait Gallery Removes Text on Trump&#8217;s Two Impeachments",
+      "link": "http://www.democracynow.org/2026/1/12/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.3,
+        "details": {
+          "subjectivity": 13.3,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.8834,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  9, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Fri, 09 Jan 2026 08:00:00 -0500",
+      "content": "Portland Mayor Calls on <span class=\"caps\">ICE</span> to Halt Operations in City After Border Agents Shot Married Couple, The Killing of Renee Good: Minnesota Officials Fear Cover-Up After <span class=\"caps\">FBI</span> Halts Cooperation with State Investigators, Rep. Robin Kelly to Introduce Articles to Impeach Kristi Noem, Immigration Agents Denounced for Raid Outside Minneapolis High School, Bipartisan Bill Advances in Senate to Block Trump from Taking Military Action in Venezuela, &#8220;Would Be Great Honor&#8221;: Trump on Offer by Machado to Share Nobel Prize with Him, U.S. Considers Sending $100,000 to Each Greenlander as Part of Trump Push to Take Over Island, Protests Continue in Iran; Trump Renews Threat to Attack Iran If Protesters Are Crushed, &#8220;There&#8217;s Neither Peace Nor Truce&#8221;: Israel Kills 14 Palestinians in Gaza, Russia Deploys Hypersonic Missile in Massive Attack on Ukraine, 17 House Republicans Join Democrats to Restore Obamacare Subsidies, Reps. Khanna &amp; Massie Call for Special Master to Oversee <span class=\"caps\">DOJ</span> Release of Epstein Documents, Mamdani &amp; Hochul Announce Plan to Provide Free Child Care for 2-Year-Olds in <span class=\"caps\">NYC</span>",
+      "link": "http://www.democracynow.org/2026/1/9/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 4.4,
+        "details": {
+          "subjectivity": 4.4,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.4215,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "\"This Is Our Hemisphere\": Report from Colombia on Trump's Escalating Threats to the Region",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 07 Jan 2026 08:11:58 -0500",
+      "content": "Following his attack on Venezuela and the abduction of Nicol\u00e1s Maduro, President Donald Trump has escalated his threats against Colombia and claimed without evidence that President Gustavo Petro is involved in cocaine trafficking. Trump and others in his administration have also threatened military action against Cuba, Greenland, Iran and Mexico in recent days.</p>\n<p>Manuel Rozental, a Colombian physician and activist with more than 40 years of involvement in grassroots political organizing, tells <em>Democracy Now!</em> that Trump&#8217;s attacks on Petro are lies. The former guerrilla &#8220;has seized more cocaine than any other government in the past,&#8221; says Rozental. &#8220;President Petro is not a drug trafficker. President Petro has been a victim of drug mafias and their allies.&#8221;",
+      "link": "http://www.democracynow.org/2026/1/7/colombia_trump",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.9705,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  7, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Wed, 07 Jan 2026 08:00:00 -0500",
+      "content": "Venezuela&#8217;s Military Announces 24 Security Officers Were Killed in U.S. Attack, Trump: Venezuela Will Give the U.S. Up to 50 Million Barrels of Oil, Secretary of State Rubio Tells Lawmakers Trump Wants to Buy Greenland, U.S. Pledges to Provide Ukraine with Security Guarantees for the First Time, Qatar Accuses Israel of &#8220;Political Blackmail&#8221; for Refusing to Reopen Rafah Crossing, Israeli Foreign Minister Gideon Sa\u2019ar Visits Somaliland, At Least 34 People Killed During Protests in Iran, <span class=\"caps\">ICE</span> Arrests 150 People After <span class=\"caps\">DHS</span> Surges 2,000 Agents to Minnesota, Trump Admin Slashes $10 Billion in Funding for Social Programs in Five Democratic-Led States, The Corporation for Public Broadcasting Votes to Dissolve Itself, American Federation of Teachers Sues Texas Education Department for Probing Teachers&#8217; Speech After Charlie Kirk&#8217;s Death, <span class=\"caps\">GOP</span> Congressmember Doug LaMalfa of California Dies at 65, Trump Warns Democrats Will Impeach Him If Republicans Don&#8217;t Win Midterm Elections",
+      "link": "http://www.democracynow.org/2026/1/7/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 5.4,
+        "details": {
+          "subjectivity": 14.1,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 10.0
+        }
+      },
+      "sentiment_score": -0.9612,
+      "stance": "AGAINST"
+    },
+    {
+      "title": "Headlines for January  5, 2026",
+      "source": "Democracy Now!",
+      "political_bucket": "left",
+      "published_at": "Mon, 05 Jan 2026 08:00:00 -0500",
+      "content": "U.S. Launches Attack on Venezuela, Captures Maduro and His Wife, Trump Threatens Colombia, Cuba, Greenland, Iran and Mexico After Attack on Venezuela, Secretary of State Rubio Warns Cuban Government After U.S. Attack on Venezuela, Israeli Prime Minister Netanyahu Congratulates Trump on &#8220;Perfect Operation&#8221; in Venezuela, Russia Affirms Support for Venezuelan Gov&#8217;t After Attacking Ukraine&#8217;s Second-Largest City Kharkiv, Greenland&#8217;s Prime Minister Nielsen Fires Back Against Trump&#8217;s Threats, Top Democrats Say Trump Admin Still Has Not Briefed Congress About Venezuela Attack, Protesters Worldwide Condemn U.S. Assault on Venezuela, Trump Threatens to Strike Iran on Behalf of Protesters, Milwaukee Judge Hannah Dugan Resigns While Appealing Felony Conviction for Aiding Immigrant",
+      "link": "http://www.democracynow.org/2026/1/5/headlines",
+      "image": "https://placehold.co/600x400?text=News+Article",
+      "scores": {
+        "bias_score_1_to_10": 6.0,
+        "details": {
+          "subjectivity": 30.0,
+          "attribution": 30.0,
+          "absolutism": 0.0,
+          "cta": 0.0
+        }
+      },
+      "sentiment_score": -0.987,
+      "stance": "AGAINST"
+    }
+  ],
+  "summary": "COMMON GROUND\nThe Iran crisis is characterized by significant internal unrest and protests. Both perspectives acknowledge that these protests are met with a forceful crackdown by the Iranian regime, resulting in a rising death toll. It is also recognized that the United States is involved in the situation through various means, including sanctions and statements regarding support for protesters, and that there is mutual condemnation between the Iranian leadership and U.S. officials.\n\nTHE CASE IN FAVOR\nThe narrative advocating for robust U.S. support to Iranians emphasizes that former President Trump has demonstrated 'unprecedented support' for the Iranian people. This perspective views the current Iranian leadership as a 'terror regime,' arguing for strong U.S. backing to facilitate its overthrow and the establishment of new leadership in the country.\n\nTHE CASE AGAINST\nCritics argue that the situation in Iran involves a complex interplay of internal repression and international dynamics. This narrative highlights reports of a significant death toll in ongoing protests, with some sources claiming thousands of fatalities and describing the situation as a 'genocide.' Concerns are also raised regarding the Iranian regime's alleged use of radioactive warheads against U.S. troops. While a desire for broader U.S. action against Iran's repression exists across the political spectrum, this perspective also points to the Iranian leadership's characterization of U.S. actions, particularly by former President Trump, as 'criminal,' asserting a need for accountability. The narrative also suggests that U.S. sanctions have contributed to an economic crisis, which in turn has seen protest death tolls rise amid an escalating crackdown. Furthermore, former President Trump's approach is described as unpredictable, with threats of military action that coincide with the regime's intensified efforts to suppress dissent. Some analyses also characterize U.S. actions in the region as 'aggression' contributing to a perceived 'empire in decline.'\n\nOBSERVATIONS ON EMPHASIS\nThe narrative advocating for robust U.S. support to Iranians primarily focuses on the characterization of the Iranian leadership as a 'terror regime' and highlights the necessity of U.S. backing for its replacement. Conversely, critics and those presenting a broader perspective emphasize the severe humanitarian consequences of the crackdown, specific allegations against the Iranian regime, the impact of U.S. sanctions on the economic crisis, and the Iranian leadership's own criticisms of the U.S. The internal dynamics of dissent and broader implications of U.S. foreign policy are also central to this view.",
+  "prompt_used": "ROLE: You are a senior newspaper editor. Your task is to synthesize multiple narratives into a single, high-quality, neutral editorial summary.\n\nTONE GUIDELINES:\n- Neutral, precise, and calm.\n- Editorial style, not academic. Avoid jargon.\n- No moralizing language (e.g., avoid 'unfortunately', 'rightly').\n- Do NOT strictly declare one side correct.\n- Do NOT mention 'bias', 'sentiment', or 'AI'.\n- Use 'The pro-[topic] narrative emphasizes...' or 'Critics argue...' rather than 'User 1 said...'.\n\nTOPIC: Iran Crisis\n\nINPUT DATA:\n--- GROUP A: ARTICLES IN FAVOR (SUPPORTING) ---\n1. [Latest Political News on Fox News | right] Summary: Jeb Bush heaps praise on Trump\u2019s \u2018unprecedented support\u2019 for Iranians 10 years after heated primary\n2. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: \u2018Take Out The Trash\u2019: GOP Senator Urges U.S. Support For Overthrowing Iran\u2019s Terror Regime\n\n--- GROUP B: ARTICLES AGAINST (OPPOSING) ---\n1. [New York Post | right] Summary: Michael Goodwin: Trump spared the ayatollah for now\u2014 but his options in Iran are still wide open\n2. [New York Post | right] Summary: Iranian doctors reportedly say protest death toll over 16K: \u2018Genocide under the cover of digital darkness\u2019\n3. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Both Sides Of The Aisle Want Broader U.S. Action Against Iran\u2019s Repression\n4. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Investigation: Iran Accused Of Using \u2018Dirty\u2019 Radioactive Warheads On U.S. Troops In 2020\n5. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Morning Brief: Trump Threatens Insurrection Act, Iran On Edge & Senators Scrutinize Abortion Pill\n6. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: The Fog Of Trump: How Unpredictability Keeps Iran Guessing\n7. [The Daily Wire - Breaking News, Videos & Podcasts | right] Summary: Democrats: ICE Is Just Like The Ayatollahs\n8. [Breitbart News | right] Summary: Trump Calls for \u2018New Leadership\u2019 in Iran, Says \u2018Sick Man\u2019 Ayatollah Ali Khamenei Has Made Nation \u2018Worst Place to Live\u2019\n9. [Breitbart News | right] Summary: Khamenei Celebrates \u2018Defeat\u2019 of U.S., Mocks \u2018Criminal\u2019 Trump: America Must Be \u2018Held Accountable\u2019\n10. [Politics | left] Summary: Iran's Leader Calls Trump A 'Criminal' For Backing Protesters\n11. [Democracy Now! | left] Summary: Headlines for January 16, 2026\n12. [Democracy Now! | left] Summary: \"This Regime Will Fall\": Director Jafar Panahi on Deadly Iran Protests & Filmmaking Under Censorship\n13. [Democracy Now! | left] Summary: Headlines for January 15, 2026\n14. [Democracy Now! | left] Summary: Headlines for January 14, 2026\n15. [Democracy Now! | left] Summary: \"Empire in Decline\": Historian Alfred McCoy on U.S. Aggression in Venezuela, Iran & Beyond\n16. [Democracy Now! | left] Summary: \"State of Siege\": Iran Protest Death Toll Rises to 2,000 After U.S. Sanctions Spawn Economic Crisis\n17. [Democracy Now! | left] Summary: Headlines for January 13, 2026\n18. [Democracy Now! | left] Summary: Iran Escalates Deadly Crackdown on Mass Protests as Trump Threatens to Launch Military Attack\n19. [Democracy Now! | left] Summary: Headlines for January 12, 2026\n20. [Democracy Now! | left] Summary: Headlines for January  9, 2026\n21. [Democracy Now! | left] Summary: \"This Is Our Hemisphere\": Report from Colombia on Trump's Escalating Threats to the Region\n22. [Democracy Now! | left] Summary: Headlines for January  7, 2026\n23. [Democracy Now! | left] Summary: Headlines for January  5, 2026\n\n\nOUTPUT INSTRUCTIONS:\nProduce a written summary with the following FOUR clearly labeled sections. IMPORTANT: Do NOT use any markdown formatting (like *, #, **). Output strictly plain text. Do NOT make titles bold. Do NOT use bullet points unless creating a list.\n\n1. COMMON GROUND\n   - Identify facts or points agreed upon by both groups.\n   - If no obvious agreement, note the shared subject matter factually.\n\n2. THE CASE IN FAVOR\n   - Summarize the arguments and focus of the IN FAVOR group.\n   - Attribute these views generally to proponents.\n\n3. THE CASE AGAINST\n   - Summarize the arguments and focus of the AGAINST group.\n   - Attribute these views generally to critics or opponents.\n\n4. OBSERVATIONS ON EMPHASIS\n   - Briefly note what each side specifically highlights or omits.\n   - Example: 'Supporters focus on economic growth, while opponents focus on environmental risk.'\n   - Keep this descriptive."
+}
