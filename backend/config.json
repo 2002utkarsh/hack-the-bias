@@ -1,0 +1,29 @@
+{
+    "right_leaning_sources": [
+        "http://feeds.foxnews.com/foxnews/politics",
+        "https://www.breitbart.com/feed/",
+        "https://thefederalist.com/feed/",
+        "https://www.dailywire.com/feeds/rss.xml",
+        "https://nypost.com/feed/",
+        "https://nationalpost.com/feed/",
+        "https://torontosun.com/feed/"
+    ],
+    "left_leaning_sources": [
+        "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+        "https://www.msnbc.com/feeds/latest",
+        "https://www.huffpost.com/section/politics/feed",
+        "https://www.democracynow.org/democracynow.rss",
+        "https://www.motherjones.com/rss/politics.xml",
+        "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss"
+    ],
+    "center_sources": [
+        "https://www.cbsnews.com/latest/rss/politics",
+        "https://rss.politico.com/politics-news.xml",
+        "https://www.npr.org/rss/rss.php?id=1001",
+        "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://thehill.com/rss/syndicator/19109",
+        "https://www.cbc.ca/cmlink/rss-topstories",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+        "https://globalnews.ca/feed/"
+    ]
+}
